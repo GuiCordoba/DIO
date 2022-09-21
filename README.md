@@ -1,2 +1,2 @@
-# dio-desafio-primeiro-projeto
-Primeiro  Projeto  do Desafio bootcamp DIO 
+# Exercicios Bootcamp DIO
+Repositorio criado para os desafios do bootcam DIO
