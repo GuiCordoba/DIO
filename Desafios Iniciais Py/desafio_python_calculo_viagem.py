@@ -13,9 +13,6 @@ Imprima a quantidade de litros necessária para realizar a viagem, com três dí
 
 
 >Solução:  
-valores = input().split()
-tempo_viagem = int(valores[0])
-velocidade_media = int(valores[1])
 '''
 
 autonomia_carro = 12
