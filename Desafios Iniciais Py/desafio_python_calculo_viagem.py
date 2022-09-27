@@ -1,3 +1,4 @@
+'''
 >Bootcamp Geração Tech Unimed-BH - Ciência de Dados
 >Desafio 3/3 - Cálculo de Viagem.
 
@@ -15,6 +16,7 @@ Imprima a quantidade de litros necessária para realizar a viagem, com três dí
 valores = input().split()
 tempo_viagem = int(valores[0])
 velocidade_media = int(valores[1])
+'''
 
 autonomia_carro = 12
 km_total = tempo_viagem * velocidade_media
