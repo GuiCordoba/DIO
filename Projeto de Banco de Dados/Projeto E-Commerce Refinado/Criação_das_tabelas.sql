@@ -141,7 +141,7 @@ create table Product_Order(
     constraint fk_product_product foreign key (idPOproduct) references Product(idProduct)
 );
 desc Product_Order;
-drop table Product_Order;
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 -- Criando tabela produto/fornecedor
